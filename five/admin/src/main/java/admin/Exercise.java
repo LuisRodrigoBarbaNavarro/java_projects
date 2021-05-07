@@ -1,4 +1,4 @@
-package admin; /* Luis Rodrigo Barba Navarro 😢*/
+package admin; /* Luis Rodrigo Barba Navarro*/
 import java.util.Scanner;
 
 class WeightLimitExceeded extends Exception {
