@@ -83,8 +83,7 @@ class Project {
             // then it will print IOException
   
             // Display message
-            System.out.println(
-                "Hay algunas excepciones con refente a las entradas y salidas del fichero.");
+            e.printStackTrace();
         }
     }
 }
